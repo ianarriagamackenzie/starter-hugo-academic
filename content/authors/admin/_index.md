@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ian Arriaga-MacKenzie
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Statistics and Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Colorado
+    url: https://www.cuanschutz.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,14 +25,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MS in Statistics
+      institution: University of Colorado Denver
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BS in Mathematics
+      institution: University of Colorado Denver
       year: 2008
 
 # Social/Academic Networking
