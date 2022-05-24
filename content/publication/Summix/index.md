@@ -54,12 +54,12 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/hendriau/Summix_manuscript'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: ''
+url_slides: 'Summix_Slides.pdf'
+url_source: 'https://pubmed.ncbi.nlm.nih.gov/34157305/'
 url_video: ''
 
 # Featured image
