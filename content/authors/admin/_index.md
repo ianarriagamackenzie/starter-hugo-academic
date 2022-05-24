@@ -14,13 +14,15 @@ organizations:
     url: https://www.cuanschutz.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include optimization, algorithm design, and efficient experiment implementation.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Statistics
+  - Big Data
+  - Optimization
+  - Cloud Computing
+  - Genetics
 
 # Education to show in About widget
 education:
@@ -67,8 +69,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My recent work has been in statistical genetics and ancestry estimation, including, but not limited to, optimization, cluster computing, algorithm design, and efficient experiment implementation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I enjoy exploring the intersection between big data and computing, particularly in delivering scalable and adaptable solutions to current research questions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}.
