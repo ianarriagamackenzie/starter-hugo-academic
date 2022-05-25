@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ian Arriaga-MacKenzie
+title: Ian S. Arriaga-MacKenzie
 
 # Is this the primary user of the site?
 superuser: true
