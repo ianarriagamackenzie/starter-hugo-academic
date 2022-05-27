@@ -42,9 +42,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ianarrmac@gmail.com'
-  - icon: file
-    icon_pack: fas
-    link: uploads/IanArriagaMackenzie_Resume_2022.pdf
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/iansamackenzie
@@ -54,6 +51,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/IanArriagaMackenzie_CV_2022.pdf
+  - icon: file
+    icon_pack: fas
+    link: uploads/IanArriagaMackenzie_Resume_2022.pdf
   - icon: github
     icon_pack: fab
     link: https://github.com/ianarriagamackenzie
