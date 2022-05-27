@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ian S. Arriaga-MacKenzie
+title: Ian Arriaga-MacKenzie
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ bio: My interests include optimization, algorithm design, and efficient experime
 
 # Interests to show in About widget
 interests:
-  - Computational Statistics
+  - Applied Statistics
   - Big Data
   - Optimization
   - Cloud Computing
@@ -27,12 +27,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Statistics
+    - course: MS - Statistics
       institution: University of Colorado Denver
-      year: 2009
-    - course: BS in Mathematics
+      year: 2021
+    - course: BS - Mathematics
       institution: University of Colorado Denver
-      year: 2008
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,12 +42,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ianarrmac@gmail.com'
+  - icon: file-user
+    icon_pack: fas
+    link: uploads/IanArriagaMackenzie_Resume_2022.pdf
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/iansamackenzie
   - icon: google-scholar # Alternatively, use `graduation-cap` icon from `fas` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=FH4-MNEAAAAJ&hl=en
+  - icon: cv
+    icon_pack: ai
+    link: uploads/IanArriagaMackenzie_CV_2022.pdf
   - icon: github
     icon_pack: fab
     link: https://github.com/ianarriagamackenzie
