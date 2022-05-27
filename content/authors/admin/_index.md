@@ -43,7 +43,7 @@ social:
     icon_pack: fas
     link: 'mailto:ianarrmac@gmail.com'
   - icon: file-user
-    icon_pack: fas
+    icon_pack: far
     link: uploads/IanArriagaMackenzie_Resume_2022.pdf
   - icon: twitter
     icon_pack: fab
