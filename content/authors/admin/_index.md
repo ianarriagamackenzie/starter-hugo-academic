@@ -79,4 +79,4 @@ My recent work has been in statistical genetics and ancestry estimation, includi
 
 I enjoy exploring the intersection between big data and computing, particularly in delivering scalable and adaptable solutions to current research questions.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/IanArriagaMackenzie_Resume_2022.pdf" "newtab" >}}Resumé{{< /staticref >}} or my {{< staticref "uploads/IanArriagaMackenzie_CV_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
