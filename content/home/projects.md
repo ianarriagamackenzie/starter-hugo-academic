@@ -8,7 +8,7 @@ subtitle: ""
 content:
   page_type: project
   filter_default: 0
-  filter_button:
+  # filter_button:
     # - name: All
     #   tag: "*"
     # - name: Deep Learning
