@@ -5,7 +5,7 @@ item:
   - certificate_url: ""
     date_end: ""
     date_start: 2021-11-08
-    description: ""
+    description: "Two Master of Science students are selected each semester as outstanding graduates."
     organization: University of Colorado Denver
     organization_url: https://www.ucdenver.edu/
     title: CLAS Outstanding MS Graduate
