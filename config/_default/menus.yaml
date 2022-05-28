@@ -17,7 +17,7 @@ main:
     url: '#featured'
     weight: 40
   - name: Resume
-    url: uploads/IanArriagaMackenzie_Resume_2022
+    url: uploads/IanArriagaMackenzie_Resume_2022.pdf
     weight: 50
   - name: Contact
     url: '#contact'
