@@ -18,14 +18,14 @@ item:
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: 2020-12-21
-    date_start: 2020-07-01
-    description: ""
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: Object-Oriented Programming in R
-    url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2019-07-01
+    description: "The Undergraduate Research Opportunity Program is a competitive grant program managed by the Office of Undergraduate Research and Creative Activities. UROP Grants support original student-driven research, creative, and other scholarly activities under the mentorship of a CU Denver | Anschutz faculty mentor."
+    organization: University of Colorado Denver
+    organization_url: https://www.ucdenver.edu/
+    title: Undergraduate Research Opportunity Program Grant
+    url: "https://www.ucdenver.edu/lynxconnect/undergraduate-research/grants/archive"
 widget_id: Awards
 headless: true
 weight: 60
