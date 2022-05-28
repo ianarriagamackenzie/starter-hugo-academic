@@ -10,21 +10,21 @@ feature:
     icon_pack: fab
     name: R
   - description: 
-    icon: terminal
-    icon_pack: fas
-    name: Bash
-  - description: 
     icon: python
     icon_pack: fab
     name: Python
+  - description: 
+    icon: chart-line
+    icon_pack: fas
+    name: Statistics
   - description: 
     icon: git-alt
     icon_pack: fab
     name: git
   - description: 
-    icon: chart-line
+    icon: terminal
     icon_pack: fas
-    name: Statistics
+    name: Bash
   - description: 
     icon: dna
     icon_pack: fas
