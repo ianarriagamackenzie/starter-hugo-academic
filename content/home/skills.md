@@ -9,13 +9,25 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: 
+    icon: terminal
+    icon_pack: fas
+    name: Bash
+  - description: 
+    icon: python
+    icon_pack: fab
+    name: Python
+  - description: 
+    icon: git-alt
+    icon_pack: fab
+    name: git
+  - description: 
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+  - description: 
+    icon: dna
     icon_pack: fas
-    name: Photography
+    name: Genetics
 widget_id: Skills
 ---
