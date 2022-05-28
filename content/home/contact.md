@@ -13,17 +13,15 @@ content:
     netlify:
       captcha: false
   autolink: true
-  office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
+  office_hours: 
   phone: 888 888 88 88
-  appointment_url: https://calendly.com
+  appointment_url: 
   directions: 
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: "94305"
+    street: 
+    city: Denver
+    region: CO
+    postcode: 
     country: United States
     country_code: US
   contact_links:
