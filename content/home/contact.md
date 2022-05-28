@@ -14,7 +14,7 @@ content:
       captcha: false
   autolink: true
   office_hours: 
-  phone: 888 888 88 88
+  phone: 
   appointment_url: 
   directions: 
   address:
@@ -27,16 +27,20 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: https://twitter.com/Twitter
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: https://zoom.com
+      name: Twitter
+      link: https://twitter.com/iansamackenzie
+    - icon: github
+      icon_pack: fab
+      name: Github
+      link: https://github.com/ianarriagamackenzie
+    - icon: linkedin
+      icon_pack: fab
+      name: LinkedIn
+      link: https://www.linkedin.com/in/ianarrmack/
   coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
-  email: test@example.org
+    latitude: "39.7393"
+    longitude: "-104.9848"
+  email: ianarrmac@gmail.com
 design:
   columns: "2"
 ---
