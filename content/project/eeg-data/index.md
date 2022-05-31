@@ -1,6 +1,14 @@
 ---
-title: Effects of Marijuana on Sleep
+url_pdf: ""
 summary: summary for sleep EEG data
+authors:
+  - admin
+url_video: ""
+date: 2019-11-01T00:00:00Z
+categories: []
+external_link: ""
+url_slides: ""
+title: Signal Decomposition of EEG Data
 tags:
   - electroencephalogram
   - EEG
@@ -8,37 +16,13 @@ tags:
   - sleep study
   - brain
   - brain waves
-date: '2019-11-01T00:00:00Z'
-authors:
-  - admin
-
-categories: []
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
+links: null
 image:
-  caption: 
+  caption: null
   filename: featured
   focal_point: Smart
   preview_only: false
-
-links:
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: Follow
-  #   url: https://twitter.com/iansamackenzie
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
+url_code: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
