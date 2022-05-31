@@ -24,6 +24,16 @@ experience:
         * Developed and implemented minimization/maximization algorithms.
         * Deployed interactive Shiny web-apps to display research results.
         * Genome wide association study of birth height in a Guatemalan cohort.
+  - title: Consulting Volunteer
+    company: University of Colorado Denver
+    company_url: "https://clas.ucdenver.edu/mathematical-and-statistical-sciences/"
+    company_logo: CUDen
+    location: Colorado
+    date_start: 2019-08-01
+    date_end: 2021-12-01
+    description: |-2
+        * Assessed the impact of marijuana on sleep using electroencephalogram (EEG) data.
+        * Built signal decomposition framework using Fast Fourier Transforms.
 widget_id: Experience
 headless: true
 weight: 30
