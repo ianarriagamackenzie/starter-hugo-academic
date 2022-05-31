@@ -1,6 +1,6 @@
 ---
 url_pdf: ""
-summary: summary for sleep EEG data
+summary: Use Fast Fourier Transforms to decompose electrical signals to infer brain wave state.
 authors:
   - admin
 url_video: ""
@@ -12,9 +12,8 @@ title: Signal Decomposition of EEG Data
 tags:
   - electroencephalogram
   - EEG
-  - marijuana
-  - sleep study
-  - brain
+  - Fast Fourier Transform
+  - signal decomposition
   - brain waves
 links: null
 image:
