@@ -4,7 +4,7 @@ summary: The log-likelihood can be maximized under an assumption of a binomial m
 authors:
   - admin
 url_video: ""
-date: 2020-01-01T00:00:00Z
+date: 2021-05-01T00:00:00Z
 categories: []
 external_link: ""
 url_slides: ""
