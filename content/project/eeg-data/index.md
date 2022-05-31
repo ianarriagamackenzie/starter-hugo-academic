@@ -1,6 +1,6 @@
 ---
 url_pdf: ""
-summary: Use Fast Fourier Transforms to decompose electrical signals to infer brain wave state.
+summary: Use a Fast Fourier Transform to decompose electrical signals to infer brain wave state.
 authors:
   - admin
 url_video: ""
