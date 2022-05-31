@@ -59,7 +59,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: 'Summix_Slides.pdf'
-url_source: 'https://pubmed.ncbi.nlm.nih.gov/34157305/'
+url_source: 'hhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC8322937/'
 url_video: ''
 
 # Featured image
