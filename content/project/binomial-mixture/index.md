@@ -1,6 +1,6 @@
 ---
 url_pdf: ""
-summary: summary for em algo for binom
+summary: A basic expectation-maximization algorithm to estimate parameters of binomial mixtures.
 authors:
   - admin
 url_video: ""
@@ -14,7 +14,6 @@ tags:
   - binomial distribution
   - mixture model
   - coin flip
-  - genetics
 links: null
 image:
   caption: null
