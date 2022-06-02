@@ -24,7 +24,7 @@ experience:
         * Developed and implemented minimization/maximization algorithms.
         * Deployed interactive Shiny web-apps to display research results.
         * Genome wide association study of birth height in a Guatemalan cohort.
-  - title: Consulting Volunteer
+  - title: Consultant
     company: University of Colorado Denver
     company_url: "https://clas.ucdenver.edu/mathematical-and-statistical-sciences/"
     company_logo: CUDen
