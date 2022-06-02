@@ -20,7 +20,7 @@ image:
   focal_point: Smart
   preview_only: false
 url_code: "https://github.com/ianarriagamackenzie/emalgo_binommix"
-url_pdf: "BinonMix_Ancestry_Supp"
+url_pdf: "BinonMix_Ancestry_Supp.pdf"
 ---
 
 We can generate a 'population' for a binomial mixture under the following assumptions: That we have a number *n* of true cases out of a possible number *N* total, and that these have a binomial distribution with {{< math >}}$\pi_i${{< /math >}} probability of being from each distribution.
