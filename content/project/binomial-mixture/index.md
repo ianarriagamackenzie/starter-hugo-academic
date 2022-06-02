@@ -20,10 +20,10 @@ image:
   focal_point: Smart
   preview_only: false
 url_code: "https://github.com/ianarriagamackenzie/emalgo_binommix"
-url_pdf: "BinonMix_Ancestry_Supp.pdf"
+url_pdf: "/project/binomial-mixture/BinonMix_Ancestry_Supp.pdf"
 ---
 
-We can generate a 'population' for a binomial mixture under the following assumptions: That we have a number *n* of true cases out of a possible number *N* total, and that these have a binomial distribution with {{< math >}}$\pi_i${{< /math >}} probability of being from each distribution.
+We can generate a population for a binomial mixture under the following assumptions: That we have a number *n* of true cases out of a possible number *N* total, and that these have a binomial distribution with {{< math >}}$\pi_i${{< /math >}} probability of being from each distribution.
 
 This is easier to visualize with a 'coins in a pot' example. Say we have a pot filled with two types of coins, each type of coin having its own probability of heads. We pull a number of coins *S* from the pot, flip each coin *N* times and record the number of *n* heads. Under these assumptions, the probability of seeing *n* heads for each coin would be:
 
