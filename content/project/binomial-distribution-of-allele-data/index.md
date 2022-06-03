@@ -40,9 +40,9 @@ $$
 
 where 
 
-*S* is the set of SNPs
-*K* are ancestries
-{{< math >}}$\pi_k${{< /math >}} are ancestry proportions for *k*
+*S* is the set of SNPs \n
+*K* are ancestries \n
+{{< math >}}$\pi_k${{< /math >}} are ancestry proportions for *k* \n
 {{< math >}}$n_i${{< /math >}} is the Allele Count for that SNP
 {{< math >}}$N_i${{< /math >}} is the Allele Number for that SNP
 {{< math >}}$\theta_k${{< /math >}} is the Allele Frequency for that SNP
