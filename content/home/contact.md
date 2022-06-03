@@ -36,7 +36,7 @@ content:
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
-      link: https://www.linkedin.com/in/ianarrmack/
+      link: https://www.linkedin.com/in/ianarrmac/
   coordinates:
     latitude: "39.7393"
     longitude: "-104.9848"
