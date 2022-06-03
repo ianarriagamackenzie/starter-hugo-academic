@@ -38,6 +38,6 @@ Using a multi-taper power spectral density method of estimation, we can show the
 
 We also apply multitaper PSD estimation to our EEG sample. In particular (because the patient was asleep) we focus on the lower frequencies (0.5 Hz - 40 Hz) as we expect there to be a large concentration of lower frequency brain waves.
 
-![Figure 5 PSD Estimation of EEG Lead](sim_psd_fir.jpg "Figure 5. PSD Estimation of EEG Lead.")
+![Figure 5 PSD Estimation of EEG Lead](psd_eeg_filt.jpg "Figure 5. PSD Estimation of EEG Lead.")
 
 While this result may seem surprising at first, it does seem consistent with the data and highlights several features. Within EEG data, there are several defined frequency bandwidths which are associated with various states of consciousness. As this patient is asleep, we see high concentrations of Delta (0.5 - 4 Hz) and Theta (4 - 8 Hz) brain waves, with minimal higher brain waves. It also is visually consistent with the plotted EEG lead, as there are large sinusoidal waves in the reading.
