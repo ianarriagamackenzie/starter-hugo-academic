@@ -10,6 +10,8 @@ experience:
     date_start: 2021-08-01
     date_end: ""
     description: |-2
+    Toxicology impacts of common medicine.
+
         * Assessed gene-level factors impacting acetaminophen use and liver damage.
         * Developed pipeline for Copy Number Variant analysis within genomic data.
   - title: Research Assistant
