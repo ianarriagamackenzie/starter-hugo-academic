@@ -23,8 +23,7 @@ image:
 url_code: "https://github.com/ianarriagamackenzie/sigdecom_eeg"
 url_pdf: "/project/eeg-data/SignalDecomp_FFT.pdf"
 ---
-
-Fast Fourier Transforms (FFT) are a computationally efficient and quick method to decompose sinusoidal signals into their component frequencies. We can show this using a series of signals at 1, 5, 10, 20 and 45 Hz shown below:
+Above is a 10 second measurement from an A1-A2 electroencephalogram (EEG) lead, taken from a sleeping patient. We examine this data with a motivating example and application, using a Fast Fourier Transform (FFT), which is a computationally efficient and quick method to decompose sinusoidal signals into their component frequencies. We can show this using a series of signals at 1, 5, 10, 20 and 45 Hz shown below:
 
 ![Figure 1 Each of the 5 individual sinusoidal signals](sim_signal_indiv.jpg "Figure 1. Each of the 5 individual sinusoidal signals.")
 
