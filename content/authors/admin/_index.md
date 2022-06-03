@@ -6,7 +6,7 @@ title: Ian Arriaga-MacKenzie
 superuser: true
 
 # Role/position/tagline
-role: Statistics and Mathematics
+role: Statistics and Computational Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
