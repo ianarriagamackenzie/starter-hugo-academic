@@ -69,7 +69,7 @@ where
 
 {{< math >}}
 $$
-P \left( z_i = k \vert n_i , \Theta_o \right) = \dfrac{P \left( z_i = k , n_i \vert \Theta_o \right)}{P \left( \vert \Theta_o \right)} = \dfrac{\pi_{k,o} \mbox{Binom} \left( n_i \vert N_i , \theta_{k,o} \right)}{\sum_{l=1}^{K} \pi_{l,o} \mbox{Binom} \left( n_i \vert N_i , \theta_{l,o} \right)}
+P \left( z_i = k \vert n_i , \Theta_o \right) = \dfrac{P \left( z_i = k , n_i \vert \Theta_o \right) }{P \left( \vert \Theta_o \right)} = \dfrac{\pi_{k,o} \mbox{Binom} \left( n_i \vert N_i , \theta_{k,o} \right)}{\sum_{l=1}^{K} \pi_{l,o} \mbox{Binom} \left( n_i \vert N_i , \theta_{l,o} \right) }
 $$
 {{< /math >}}
 
