@@ -41,15 +41,15 @@ $$
 where 
 
 *S* is the set of SNPs
-
 *K* are ancestries
-
 {{< math >}}$\pi_k${{< /math >}} are ancestry proportions for *k*
-
 {{< math >}}$n_i${{< /math >}} is the Allele Count for that SNP
-
 {{< math >}}$N_i${{< /math >}} is the Allele Number for that SNP
-
 {{< math >}}$\theta_k${{< /math >}} is the Allele Frequency for that SNP
 
-This leads to the above image which shows a maximation of the log likelihood at the following values
+This leads to the above image which shows a maximation of the log likelihood at the following values:
+
+**AFR**: 0.8277273
+**EUR**: 0.1722727
+
+These values are consistent with known admixture within the gnomAD sample, and are confirmed with other estimation methods (Summix, ADMIXTURE).  There are several ways to maximize the log-likelihood including grid-search and Expecation-Maximization algorithms. The binomial distribution can also be inverted and solved using gradient descent methods, such as Sequential Quadratic Programming.
