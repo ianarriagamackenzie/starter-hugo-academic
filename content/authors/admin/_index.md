@@ -19,9 +19,9 @@ bio: My interests include optimization, algorithm design, and efficient experime
 # Interests to show in About widget
 interests:
   - Applied Statistics
-  - Big Data
+  - Machine Learning
   - Optimization
-  - Cloud Computing
+  - Software Development
   - Genetics
 
 # Education to show in About widget
