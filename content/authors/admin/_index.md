@@ -75,7 +75,7 @@ email: ''
 highlight_name: true
 ---
 
-My recent work has been in statistical genetics and ancestry estimation, including, but not limited to, optimization, cluster computing, algorithm design, and efficient experiment implementation.
+My recent work has been in statistical genetics and ancestry estimation, including optimization, parallel computing, algorithm design, and machine learning.
 
 I enjoy exploring the intersection between big data and computing, particularly in delivering scalable and adaptable solutions to current research questions.
 
